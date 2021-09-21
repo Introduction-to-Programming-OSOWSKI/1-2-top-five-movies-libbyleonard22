@@ -1,10 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 
 def topFiveMovies(a, b, c, d, e):
-    print ("Unbroken")
-    print ("Finding Dory")
-    print ("Finding Nemo")
-    print ("Big Hero 6")
-    print ("Wall-E")
+   return (a + " " + b + " " + c + " " + d + " ")
 
-topFiveMovies("Unbroken", "Finding Dory", "Finding Nemo", "Big Hero 6", "Wall-E")
+print(topFiveMovies("Unbroken", "Finding Dory", "Finding Nemo", "Big Hero 6", "Wall-E"))
